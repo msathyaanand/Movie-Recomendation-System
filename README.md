@@ -1,4 +1,4 @@
-# Movie Recommendation System using Python
+# Movie Recommendation System
 
 This repository contains a Movie Recommendation System implemented in Python using a movie dataset with Content-based filtering. The system suggests movies to users based on their preferences and previous ratings.
 
